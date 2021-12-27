@@ -1,2 +1,0 @@
-# existentiallyexhausted
-existentiallyexhausted.blog
